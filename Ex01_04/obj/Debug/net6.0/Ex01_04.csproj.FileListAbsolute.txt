@@ -1,0 +1,15 @@
+/Users/idohirschmann/Documents/GitHub/NET_Ex01/Ex01_04/bin/Debug/net6.0/Ex01_04
+/Users/idohirschmann/Documents/GitHub/NET_Ex01/Ex01_04/bin/Debug/net6.0/Ex01_04.deps.json
+/Users/idohirschmann/Documents/GitHub/NET_Ex01/Ex01_04/bin/Debug/net6.0/Ex01_04.runtimeconfig.json
+/Users/idohirschmann/Documents/GitHub/NET_Ex01/Ex01_04/bin/Debug/net6.0/Ex01_04.dll
+/Users/idohirschmann/Documents/GitHub/NET_Ex01/Ex01_04/bin/Debug/net6.0/Ex01_04.pdb
+/Users/idohirschmann/Documents/GitHub/NET_Ex01/Ex01_04/obj/Debug/net6.0/Ex01_04.csproj.AssemblyReference.cache
+/Users/idohirschmann/Documents/GitHub/NET_Ex01/Ex01_04/obj/Debug/net6.0/Ex01_04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/idohirschmann/Documents/GitHub/NET_Ex01/Ex01_04/obj/Debug/net6.0/Ex01_04.AssemblyInfoInputs.cache
+/Users/idohirschmann/Documents/GitHub/NET_Ex01/Ex01_04/obj/Debug/net6.0/Ex01_04.AssemblyInfo.cs
+/Users/idohirschmann/Documents/GitHub/NET_Ex01/Ex01_04/obj/Debug/net6.0/Ex01_04.csproj.CoreCompileInputs.cache
+/Users/idohirschmann/Documents/GitHub/NET_Ex01/Ex01_04/obj/Debug/net6.0/Ex01_04.dll
+/Users/idohirschmann/Documents/GitHub/NET_Ex01/Ex01_04/obj/Debug/net6.0/refint/Ex01_04.dll
+/Users/idohirschmann/Documents/GitHub/NET_Ex01/Ex01_04/obj/Debug/net6.0/Ex01_04.pdb
+/Users/idohirschmann/Documents/GitHub/NET_Ex01/Ex01_04/obj/Debug/net6.0/Ex01_04.genruntimeconfig.cache
+/Users/idohirschmann/Documents/GitHub/NET_Ex01/Ex01_04/obj/Debug/net6.0/ref/Ex01_04.dll

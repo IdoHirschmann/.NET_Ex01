@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "7XsF/pBNxyD3OCosGe0Sn8k8AQR8OdsWkIk3q+YPxsIbX3jzJdPnGSj/8S7w9uxIbLoDR3YPUGs3lhDE+fxRiA==",
+  "dgSpecHash": "SYe91iAsOBDPymRftFZ7uQOkS015McmVCsQZLE5pp84IpDi28LeetOfLp9bDcLftOvKtrR6dIpy6ayTImeAmxg==",
   "success": true,
-  "projectFilePath": "/Users/idohirschmann/Desktop/B23 Ex01 IdoHirschmann 211329883 ZivChoen 313453797/Ex01_05/Ex01_05.csproj",
+  "projectFilePath": "/Users/idohirschmann/Documents/GitHub/NET_Ex01/Ex01_05/Ex01_05.csproj",
   "expectedPackageFiles": [
-    "/Users/idohirschmann/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.15/microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
-    "/Users/idohirschmann/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.15/microsoft.netcore.app.host.osx-arm64.6.0.15.nupkg.sha512",
-    "/Users/idohirschmann/.nuget/packages/microsoft.netcore.app.ref/6.0.15/microsoft.netcore.app.ref.6.0.15.nupkg.sha512"
+    "/Users/idohirschmann/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.16/microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "/Users/idohirschmann/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.16/microsoft.netcore.app.host.osx-arm64.6.0.16.nupkg.sha512",
+    "/Users/idohirschmann/.nuget/packages/microsoft.netcore.app.ref/6.0.16/microsoft.netcore.app.ref.6.0.16.nupkg.sha512"
   ],
   "logs": []
 }

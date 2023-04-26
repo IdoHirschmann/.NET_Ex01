@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/idohirschmann/Desktop/B23 Ex01 IdoHirschmann 211329883 ZivChoen 313453797/Ex01_03/Ex01_03.csproj",
+      "projectUniqueName": "/Users/idohirschmann/Documents/GitHub/NET_Ex01/Ex01_03/Ex01_03.csproj",
       "projectName": "Ex01_03",
-      "projectPath": "/Users/idohirschmann/Desktop/B23 Ex01 IdoHirschmann 211329883 ZivChoen 313453797/Ex01_03/Ex01_03.csproj",
+      "projectPath": "/Users/idohirschmann/Documents/GitHub/NET_Ex01/Ex01_03/Ex01_03.csproj",
       "packagesPath": "/Users/idohirschmann/.nuget/packages/",
-      "outputPath": "/Users/idohirschmann/Desktop/B23 Ex01 IdoHirschmann 211329883 ZivChoen 313453797/Ex01_03/obj/",
+      "outputPath": "/Users/idohirschmann/Documents/GitHub/NET_Ex01/Ex01_03/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/idohirschmann/.nuget/NuGet/NuGet.Config"
@@ -51,8 +51,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/idohirschmann/Desktop/B23 Ex01 IdoHirschmann 211329883 ZivChoen 313453797/Ex01_02/Ex01_02.csproj": {
-              "projectPath": "/Users/idohirschmann/Desktop/B23 Ex01 IdoHirschmann 211329883 ZivChoen 313453797/Ex01_02/Ex01_02.csproj"
+            "/Users/idohirschmann/Documents/GitHub/NET_Ex01/Ex01_02/Ex01_02.csproj": {
+              "projectPath": "/Users/idohirschmann/Documents/GitHub/NET_Ex01/Ex01_02/Ex01_02.csproj"
             }
           }
         }
@@ -80,15 +80,15 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.15, 6.0.15]"
+            "version": "[6.0.16, 6.0.16]"
           },
           {
             "name": "Microsoft.NETCore.App.Host.osx-arm64",
-            "version": "[6.0.15, 6.0.15]"
+            "version": "[6.0.16, 6.0.16]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.15, 6.0.15]"
+            "version": "[6.0.16, 6.0.16]"
           }
         ],
         "frameworkReferences": {
@@ -96,7 +96,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
       }
     }
   }

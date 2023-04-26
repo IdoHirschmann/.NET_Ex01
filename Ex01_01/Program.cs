@@ -32,7 +32,9 @@ class Program
         howManyNumDividedByFour(v_DecimalNum1, v_DecimalNum2, v_DecimalNum3);
         howManyNumHaveDecreseDigitsOrder(v_DecimalNum1, v_DecimalNum2, v_DecimalNum3);
         howManyNumbersArePalindrom(v_DecimalNum1, v_DecimalNum2, v_DecimalNum3);
-        
+
+
+
         Console.ReadLine();
     }
 
@@ -102,8 +104,6 @@ class Program
                 v_MinNum = i_Number2;
             }
         }
-
-
         else if (i_Number2 >= i_Number1 && i_Number2 >= i_Number3)
         {
             v_MaxNum = i_Number2;
@@ -120,7 +120,6 @@ class Program
 
             }
         }
-
         else if (i_Number3 >= i_Number1 && i_Number3 >= i_Number2)
         {
             v_MaxNum = i_Number3;

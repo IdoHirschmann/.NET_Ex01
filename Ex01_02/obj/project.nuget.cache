@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yEPBxu5bXfe7rI8bMq1eXEidgb2dz9Pgw1B1nCGSrVZunlT8GmHWpPWVsxkLJ4LXNyWKIM8W7rLgSYuMT6c1rA==",
+  "success": true,
+  "projectFilePath": "/Users/idohirschmann/Desktop/B23 Ex01 IdoHirschmann 211329883 ZivChoen 313453797/Ex01_02/Ex01_02.csproj",
+  "expectedPackageFiles": [
+    "/Users/idohirschmann/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.15/microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "/Users/idohirschmann/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.15/microsoft.netcore.app.host.osx-arm64.6.0.15.nupkg.sha512",
+    "/Users/idohirschmann/.nuget/packages/microsoft.netcore.app.ref/6.0.15/microsoft.netcore.app.ref.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

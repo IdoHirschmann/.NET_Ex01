@@ -1,0 +1,15 @@
+/Users/idohirschmann/Desktop/B23 Ex01 IdoHirschmann 211329883 ZivChoen 313453797/Ex01_01/bin/Debug/net6.0/Ex01_01
+/Users/idohirschmann/Desktop/B23 Ex01 IdoHirschmann 211329883 ZivChoen 313453797/Ex01_01/bin/Debug/net6.0/Ex01_01.deps.json
+/Users/idohirschmann/Desktop/B23 Ex01 IdoHirschmann 211329883 ZivChoen 313453797/Ex01_01/bin/Debug/net6.0/Ex01_01.runtimeconfig.json
+/Users/idohirschmann/Desktop/B23 Ex01 IdoHirschmann 211329883 ZivChoen 313453797/Ex01_01/bin/Debug/net6.0/Ex01_01.dll
+/Users/idohirschmann/Desktop/B23 Ex01 IdoHirschmann 211329883 ZivChoen 313453797/Ex01_01/bin/Debug/net6.0/Ex01_01.pdb
+/Users/idohirschmann/Desktop/B23 Ex01 IdoHirschmann 211329883 ZivChoen 313453797/Ex01_01/obj/Debug/net6.0/Ex01_01.csproj.AssemblyReference.cache
+/Users/idohirschmann/Desktop/B23 Ex01 IdoHirschmann 211329883 ZivChoen 313453797/Ex01_01/obj/Debug/net6.0/Ex01_01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/idohirschmann/Desktop/B23 Ex01 IdoHirschmann 211329883 ZivChoen 313453797/Ex01_01/obj/Debug/net6.0/Ex01_01.AssemblyInfoInputs.cache
+/Users/idohirschmann/Desktop/B23 Ex01 IdoHirschmann 211329883 ZivChoen 313453797/Ex01_01/obj/Debug/net6.0/Ex01_01.AssemblyInfo.cs
+/Users/idohirschmann/Desktop/B23 Ex01 IdoHirschmann 211329883 ZivChoen 313453797/Ex01_01/obj/Debug/net6.0/Ex01_01.csproj.CoreCompileInputs.cache
+/Users/idohirschmann/Desktop/B23 Ex01 IdoHirschmann 211329883 ZivChoen 313453797/Ex01_01/obj/Debug/net6.0/Ex01_01.dll
+/Users/idohirschmann/Desktop/B23 Ex01 IdoHirschmann 211329883 ZivChoen 313453797/Ex01_01/obj/Debug/net6.0/refint/Ex01_01.dll
+/Users/idohirschmann/Desktop/B23 Ex01 IdoHirschmann 211329883 ZivChoen 313453797/Ex01_01/obj/Debug/net6.0/Ex01_01.pdb
+/Users/idohirschmann/Desktop/B23 Ex01 IdoHirschmann 211329883 ZivChoen 313453797/Ex01_01/obj/Debug/net6.0/Ex01_01.genruntimeconfig.cache
+/Users/idohirschmann/Desktop/B23 Ex01 IdoHirschmann 211329883 ZivChoen 313453797/Ex01_01/obj/Debug/net6.0/ref/Ex01_01.dll
